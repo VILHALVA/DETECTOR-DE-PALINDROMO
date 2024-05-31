@@ -36,5 +36,4 @@ Este projeto consiste em um detector de palíndromos, ou seja, ele verifica se u
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
 
